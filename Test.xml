@@ -475,4 +475,18 @@
 		<posicaoPorte>1</posicaoPorte>
 		<pote>1</pote>
 	</clube>
+	<clube>
+		<clubeLogo1>https://www.abola.pt/img/clubes/0192F8F1-6CF4-4DCD-A59C-910F598EE61C.png</clubeLogo1>
+		<clubeLogo2></clubeLogo2>
+		<clubeNome1>clubeNome1TEST18</clubeNome1>
+		<clubeNome2></clubeNome2>
+		<Competicao>LC</Competicao>
+		<FaseFinal>grupos</FaseFinal>
+		<grupo>E</grupo>
+		<idClube1>1</idClube1>
+		<idCLube2>1</idCLube2>
+		<posicaoGrupo>5</posicaoGrupo>
+		<posicaoPorte>1</posicaoPorte>
+		<pote>4</pote>
+	</clube>
 </clubes>
