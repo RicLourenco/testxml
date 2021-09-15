@@ -1,0 +1,42 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:g="http://schemas.google.com/pcn/2020">
+<title>A Bola Feed</title>
+<link rel="self" href="https://abola.pt/"/>
+<id>https://abola.pt/</id>
+<updated>2021-09-15T10:20:22Z</updated>
+<entry>
+<g:panel type="RUNDOWN">A Bola Highlights</g:panel>
+<g:panel_title>Destaques A Bola</g:panel_title>
+<id>4563515</id>
+<published>2021-09-15T10:20:22Z</published>
+<updated>2021-09-15T10:20:22Z</updated>
+<g:article_group role="RUNDOWN">
+<entry>
+<id>904894</id>
+<published>14/09/2021 21:51:00</published>
+<updated>14/09/2021 21:51:00</updated>
+<title>Benfica não sai do nulo em Kiev</title>
+<link>https://www.abola.pt/Nnh/Noticias/Ver/904894</link>
+<g:overline>Redação</g:overline>
+<media:content url="https://www.abola.pt//img/fotos/ABOLA2015/FOTOSAP/NNH/2021/kievbenfica2.jpg">https://www.abola.pt//img/fotos/ABOLA2015/FOTOSAP/NNH/2021/kievbenfica2.jpg</media:content>
+</entry>
+<entry>
+<id>904909</id>
+<published>14/09/2021 22:28:00</published>
+<updated>14/09/2021 22:28:00</updated>
+<title>«Somámos um ponto, estamos na Champions»</title>
+<link>https://www.abola.pt/Nnh/Noticias/Ver/904909</link>
+<g:overline>Redação</g:overline>
+<media:content url="https://www.abola.pt//img/fotos/ABOLA2015/BENFICA/2021/JesusKievAP.jpg">https://www.abola.pt//img/fotos/ABOLA2015/BENFICA/2021/JesusKievAP.jpg</media:content>
+</entry>
+<entry>
+<id>904925</id>
+<published>15/09/2021 08:07:00</published>
+<updated>15/09/2021 08:07:00</updated>
+<title>A BOLA 3D: O que é o Halo?</title>
+<link>https://www.abola.pt/Nnh/Noticias/Ver/904925</link>
+<g:overline>Redação</g:overline>
+<media:content url="https://www.abola.pt//img/fotos/ABOLA2015/ABOLA3D/Halo.jpg">https://www.abola.pt//img/fotos/ABOLA2015/ABOLA3D/Halo.jpg</media:content>
+</entry>
+</g:article_group>
+</entry>
+</feed>
